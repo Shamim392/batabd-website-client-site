@@ -1,0 +1,18 @@
+.add-service .upload-btn {
+  border: 2px solid #f8c59a;
+  color: #09fdf1;
+  max-width: 16rem;
+}
+
+.add-service .upload-btn:hover,
+.add-service .upload-btn:active {
+  border: 2px solid #13e77d !important;
+  color: white;
+  background: #09fdf1 !important;
+  border-radius: 0.25rem;
+}
+
+.add-service .submit-btn {
+  width: 9rem;
+  padding: 0.68rem 0;
+}
